@@ -138,7 +138,7 @@ Ezbot is a small-scale autonomous vehicle built during a robotics internship as 
 
 ## Contributing Team
 
-- **[Katharine John Kennedy](https://github.com/Katharine007)**
+- **[Katharine Kennedy](https://github.com/Katharine007)**
 - **[Qamreen](https://github.com/Qamreen22)**
 - **[Jhanavi J S](https://github.com/Jhanavi1402)**
 - **[Sandhya Singh M](https://github.com/sandhyaasingh)**
